@@ -1,11 +1,3 @@
-# W1 - JS : My Battleship
-
-Student project for [W@C by Epitech](https://www.webacademie.org/). Promo 2022 Strasbourg
-
-## Contributor
-
-- Adrien Marion (<adrien.marion@epitech.eu>)
-- Faycal Allouache (<faycal.allouache@epitech.eu>)
 
 NOTE D'INTENTION
 ================
